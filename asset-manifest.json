@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/note-clone/static/css/main.03c023c1.css",
+    "main.js": "/note-clone/static/js/main.5c7fa0ac.js",
+    "index.html": "/note-clone/index.html",
+    "main.03c023c1.css.map": "/note-clone/static/css/main.03c023c1.css.map",
+    "main.5c7fa0ac.js.map": "/note-clone/static/js/main.5c7fa0ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c023c1.css",
+    "static/js/main.5c7fa0ac.js"
+  ]
+}
